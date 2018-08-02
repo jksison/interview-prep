@@ -163,3 +163,5 @@ buildNumber.properties
 *.xls
 *.xlsx
 /.recommenders/
+
+notes.txt
